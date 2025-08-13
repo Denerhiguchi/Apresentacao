@@ -10,7 +10,7 @@
 
   <center>
   <p>
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEGpOVazgmSfA/profile-displayphoto-shrink_200_200/B4DZQUd5Y5GkAc-/0/1735510169882?e=1747872000&v=beta&t=_iWY0yaYGdFJgAoAtmORb2sE-pPyYBGce2LwGUh_BQw"width=100 height=100>
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEGpOVazgmSfA/profile-displayphoto-shrink_400_400/B4DZQUd5Y5GkAk-/0/1735510169858?e=1758153600&v=beta&t=edAVLo8aZDwLhkAMa43p0w33S3yBOfC0-HBfqzTKlEU"width=100 height=100>
   </p>
 
   
