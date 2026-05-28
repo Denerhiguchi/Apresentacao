@@ -46,13 +46,26 @@ Acredito que a evolução contínua, a disciplina e a dedicação são fundament
 
 <center> <h5 style="border: solid;"> <strong> Linguagem de Programação </strong> </h5></center>
 <center> 
-<label for="csharp">Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"width=50 height=50> </label> 
- <br> 
-<label for="csharp"> Javascript  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50 height=50/> </label>
-<br>
 
- <img src= "https://www.hubspot.com/hubfs/Arduino_Logo.svg.png" width=50 height=50> </label> 
- <br> 
+<table>
+  <tr>
+    <td align="center">
+      <p>Python</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50">
+    </td>
+
+<td align="center">
+      <p>JavaScript</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
+    </td>
+
+<td align="center">
+      <p>Arduino</p>
+      <img src="https://www.hubspot.com/hubfs/Arduino_Logo.svg.png" width="50">
+    </td>
+  </tr>
+</table>
+     
  </center>
  
  <center> <p style="border: solid;"> <strong> Experiência Profissional </strong> </p></center>
