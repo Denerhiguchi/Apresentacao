@@ -10,7 +10,7 @@
 
   <center>
   <p>
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEGpOVazgmSfA/profile-displayphoto-shrink_400_400/B4DZQUd5Y5GkAk-/0/1735510169858?e=1758153600&v=beta&t=edAVLo8aZDwLhkAMa43p0w33S3yBOfC0-HBfqzTKlEU"width=100 height=100>
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQG-Dhmr0VykYA/profile-displayphoto-crop_800_800/B4DZwZifCHIgAM-/0/1769955000982?e=1781740800&v=beta&t=VNXIFNZlfDa5G6ia8nhwkq4Hmj7-ONi-Hj-nD7C6jkw"width=100 height=100>
   </p>
 
   
@@ -19,7 +19,7 @@
   </center>
 
   <ul>
-    <li>Idade: 31 anos</li>
+    <li>Idade: 32 anos</li>
     <li>Cidade: São Paulo - SP </li>
   <li> E-mail: Higuchidener@gmail.com &#x2709;</li>
   <li> Objetivo: Área de TI-Jr  </li>
@@ -37,7 +37,7 @@
 <center><h4 font: 20px normal arial; style="border: solid"><strong> Quem sou eu ?</strong> </h4>
   <br>
   <label for = "csharp"> uma pessoa nascido na cidade SP se esforçando para ser um desenvolvedor
-  de software, estou estudando na faculdade FMU de análise e desenolvivmento de Sistema, agora no último semestre. 
+  de software, concluído na faculdade FMU de análise e desenolvivmento de Sistema. 
  acredito que cada dia que passa, eu estarei me aperfeiçoando na tecnologia, para melhorar o meu futuro Profissional.</label> </center> </br>
 </center>
 
