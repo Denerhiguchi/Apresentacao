@@ -36,9 +36,12 @@
 
 <center><h4 font: 20px normal arial; style="border: solid"><strong> Quem sou eu ?</strong> </h4>
   <br>
-  <label for = "csharp"> uma pessoa nascido na cidade SP se esforçando para ser um desenvolvedor
-  de software, concluído na faculdade FMU de análise e desenolvivmento de Sistema. 
- acredito que cada dia que passa, eu estarei me aperfeiçoando na tecnologia, para melhorar o meu futuro Profissional.</label> </center> </br>
+  <label for = "csharp"> Olá! Meu nome é Dener.
+Sou uma pessoa nascida em São Paulo, apaixonada por tecnologia e em constante evolução na área de desenvolvimento de software.
+
+Concluí minha graduação em Análise e Desenvolvimento de Sistemas pela FMU e sigo buscando aprimorar meus conhecimentos todos os dias, tanto na programação quanto nas tecnologias que fazem parte do mercado atual.
+
+Acredito que a evolução contínua, a disciplina e a dedicação são fundamentais para construir um futuro profissional sólido na tecnologia.</label> </center> </br>
 </center>
 
 <center> <h5 style="border: solid;"> <strong> Linguagem de Programação </strong> </h5></center>
